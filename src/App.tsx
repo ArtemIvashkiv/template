@@ -1,4 +1,4 @@
-import { HeaderWithSearch } from './components/HeaderWithSearch.tsx';
+import { HeaderWithSearch } from './components/HeaderWithSearch';
 import { Footer } from './components/Footer';
 import { Main } from './components/Main';
 import { BrowserRouter, Switch, Route, Link, useParams } from "react-router-dom";
